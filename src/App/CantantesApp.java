@@ -7,6 +7,7 @@ package App;
 /**
  *
  * @author juanf
+ * Juan Felipe Rojas Muñoz
  */
 import Cantante.CantanteFamoso;
 import Lista.ListaCantantesFamosos;
